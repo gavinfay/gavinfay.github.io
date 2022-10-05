@@ -1,8 +1,22 @@
 ---
 title: "Gavin Fay"
+image: images/gf-headshot.png
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: Twitter
+      href: https://twitter.com/gavin_fay
+    - text: GitHub
+      href: https://github.com/gavinfay
+    - text: Email
+      href: mailto:gfay@umassd.edu
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=ApZKT_0AAAAJ&hl=en
 ---
 
-Hi, I am an Associate Professor of Fisheries Oceanography at the University of Massachusetts Dartmouth School for Marine Science and Technology.
+Hi! I am an Associate Professor of Fisheries Oceanography at the University of Massachusetts Dartmouth School for Marine Science and Technology.
 
 We do Fisheries things.
 
