@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Gavin le Fey"
+  title: "Gavin Fay"
   navbar:
     background: primary
     left:
