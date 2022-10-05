@@ -1,11 +1,11 @@
 ---
-title: "gavinfay.github.io"
+title: "Gavin Fay"
 ---
 
-This is a Quarto website.
+Hi, I am an Associate Professor of Fisheries Oceanography at the University of Massachusetts Dartmouth School for Marine Science and Technology.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+We do Fisheries things.
 
-```{r}
-1 + 1
-```
+For information about our lab's research please visit our lab website at [www.thefaylab.com](www.thefaylab.com).
+
+![](images/paste-C28C2CD8.png){width="386"}
