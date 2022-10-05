@@ -20,6 +20,6 @@ Hi! I am an Associate Professor of Fisheries Oceanography at the University of M
 
 We do Fisheries things.
 
-For information about our lab's research please visit our lab website at [www.thefaylab.com](www.thefaylab.com).
+For information about our lab's research please visit our lab website at [www.thefaylab.com](https://www.thefaylab.com).
 
 ![](images/paste-C28C2CD8.png){width="386"}
