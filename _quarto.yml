@@ -9,7 +9,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-
+      - href: cv.qmd
+        text: CV
+      - href: https://github.com/gavinfay
+        icon: github
+      - href: http://thefaylab.com
+        text: Lab Website
+  page-footer: 
+    background: light
+    left: This site is licensed under a [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
+    right: This website is built with love, cats, and [Quarto](https://quarto.org/){target=_blank}.
+    
 format:
   html:
     theme: 
@@ -17,6 +27,7 @@ format:
       dark: slate
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

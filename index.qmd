@@ -6,20 +6,43 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
-    - text: Twitter
-      href: https://twitter.com/gavin_fay
     - text: GitHub
+      icon: github
       href: https://github.com/gavinfay
     - text: Email
+      icon: envelope
       href: mailto:gfay@umassd.edu
     - text: Google Scholar
+      icon: scholar
       href: https://scholar.google.com/citations?user=ApZKT_0AAAAJ&hl=en
 ---
 
-Hi! I am an Associate Professor of Fisheries Oceanography at the University of Massachusetts Dartmouth School for Marine Science and Technology.
+#### ***Training and research in statistical modeling and data science for better ecosystem-based decision making for our oceans and the people who depend on them.***
 
-We do Fisheries things.
+Hi! I am currently an Associate Professor of Fisheries Oceanography at the University of Massachusetts Dartmouth School for Marine Science and Technology.
 
-For information about our lab's research please visit our lab website at [thefaylab.com](http://thefaylab.com).
+For information about my team's work please visit our lab website at [thefaylab.com](http://thefaylab.com).
 
-![](images/paste-C28C2CD8.png){width="386"}
+For more information about how we work, please visit our [lab manual](https://thefaylab.github.io/lab-manual).
+
+***"We do fisheries things"^\*^*****.** In my research group, we develop and test the performance of new methods for fisheries assessment modeling and climate-ready marine ecosystem-based management. We employ open data science tools in our work to enable better co-creation, communication, and use of scientific results for application to management and policy.
+
+At the University of Massachusetts Dartmouth, I teach graduate courses and workshops in statistics, ecological population modeling, science communication, R programming, and Ecosystem-Based Fisheries Management. I am the Chair of the ICES Strategic Initiative for Graduate Education.
+
+I currently serve on the Mid-Atlantic Fishery Management Council's Scientific and Statistical Committee, as well as the New England Fishery Management Council's Ecosystem-Based Fisheries Management Plan Development Team.
+
+Areas of research:
+
+-   Ecosystem-Based Fisheries Management
+
+-   Stock Assessment
+
+-   Management Strategy Evaluation
+
+-   Climate informed fisheries decision-making
+
+-   Socio-environmental systems
+
+*(Many thanks to resources for building websites using Quarto put together by [Angelia Miller](https://angeliamiller.github.io/) and [Samantha Csik](https://samanthacsik.github.io/))*
+
+^\*^*as coined by [Julie Lowndes](https://jules32.github.io/) in her awesome rstudio::conf 2022 [keynote](https://posit.co/keynotes/hello-quarto-share-collaborate-teach-reimagine/).*

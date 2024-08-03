@@ -1,0 +1,287 @@
+---
+title: "Full list of Technical Reports"
+---
+
+**Published Technical Reports** {#reports}
+
+**2024**
+
+ICES. 2024. Report of the Science Committee (SCICOM), March 2024. ICES Business Reports, Vol. 4: Issue 3. 54 pp. <https://doi.org/10.17895/ices.pub.25896847>
+
+MAFMC. 2024. Report of the May 2024 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 15p.
+
+Bauer, T., J. Beaty, A. Carr-Harris, G. DePiper, **G. Fay**, S. Gaichas, S. Steinback, C. Tuohy, **\*\*K. Walsh**. 2024. Recreational Reform Initiative Management Strategy Evaluation Report: Report to Mid-Atlantic Fishery Management Council (MAFMC).
+
+MAFMC. 2024. Report of the March 2024 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 11p.
+
+NEFSC. 2024. Report of the State space models methods Research Track Stock Assessment Working Group. 86p.
+
+**2023**
+
+**Fay, G.**, \*\*L. Chong, J. McNamee, E. Camp, S. Truesdell, K. Curti. 2023. Stock synthesis application to black sea bass. Black Sea Bass Research Track Stock Assessment Working Group Working Paper 18. 43p.
+
+NEFSC. 2023. Report of the Black Sea Bass (Centropristis striata) Research Track Stock Assessment Working Group. 140p.
+
+MAFMC. 2023. Report of the October 2023 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 22p.
+
+ICES. 2023. SCICOM PROGRESS REPORT 2023. ICES Business Reports, 3:16. 82 pp. https://doi.org/10.17895/ices.pub.24865653.
+
+MAFMC. 2023. Report of the September 2023 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 22p.
+
+**Fay, G.**, L. Kerr, **M. Guyant**, \*\*J. Jesse, **\*E. Liljestrand**. 2023. Prototype Management Strategy Evaluation for Georges  Bank Ecosystem-Based Fisheries Management: Final Report. Report to the New England Fishery Management Council. 143p.
+
+MAFMC. 2023. Report of the July 2023 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 44p.
+
+MAFMC. 2023. Report of the May 2023 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 19p.
+
+MAFMC. 2023. Report of the March 2023 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 21p.
+
+ICES. 2023. Working Group on Multispecies Assessment Methods (WGSAM; outputs from 2022 meeting). ICES Scientific Reports. 5:12. 233 pp. <https://doi.org/10.17895/ices.pub.22087292>
+
+MAFMC. 2023. Report of the May 2023 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council.
+
+**Guyant M,  \*\*Miller A, \*\*Roman C**, O´Keefe C, Foley C, Ford K, Lipsky A, Politis P, **Fay G**. 2023. Survey Simulation Experimentation and Evaluation Project Participatory design workshops to develop a spatial observation simulator to evaluate changes to marine fishery ecosystem monitoring surveys: Final Report to the BOEM/NOAA Steering Committee. 66p.
+
+**\*\*McGinnis L, G Fay**, A Hansell, S Cadrin. 2023. Standardizing landings per unit effort from Atlantic Cod fishery data. Working paper for the Northeast US Atlantic Cod Research Track Stock Assessment. 101p.
+
+**\*\*McGinnis, L.**, \*\*Hankowsky, K., \*\*Grezlik, M., **Fay, G**., Cadrin, S.X., Hansell, A. 2023. Atlantic cod catch rate data exploration.Working paper for the Northeast US Atlantic Cod Research Track Stock Assessment.
+
+MAFMC. 2023. Report of the March 2023 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council.
+
+ICES. 2023. Working Group on Multispecies Assessment Methods (WGSAM; outputs from 2022 meeting). ICES Scientific Reports. 5:12. 233 pp. <https://doi.org/10.17895/ices.pub.22087292>
+
+**Guyant M, G Fay**, L Kerr, J Jesse, \*\*M Grezlik. 2023. pMSE for Georges Bank EBFM Workshop #4 Summary.
+
+**Guyant M, G Fay**, L Kerr, J Jesse, \*\*M Grezlik. 2023. pMSE for Georges Bank EBFM Workshop #5 Summary.
+
+**2022**
+
+\*\*Hankowsky, K., \*\*M Grezlik, **\*\*L McGinnis**, **G Fay**, SX Cadrin, AC Hansell. 2022. Catch Rate Standardization of American Plaice Trawl Fishery. American Plaice Research Track Stock Assessment Working Group Working Paper 7.
+
+\*\*Grezlik M, **\*\*McGinnis L**, Hankowsky K, **Fay G**, Cadrin S, Hansell A. 2022. Exploration of Fishery Data to Evaluate Catch Rates of American Plaice. American Plaice Research Track Stock Assessment Working Group, Working Paper 6.
+
+**Guyant M, G. Fay**, M. Bachman, J. Coakley, M. Johnson, T. Rankin, W. Morrison, T. Kentner. 2022. Northeast Regional Habitat Assessment-Habitat Climate Vulnerability Assessment Matrix and Species Narratives Development Final Report. New England Fishery Management Council.
+
+**Guyant M, G Fay**, L Kerr, J Jesse, \*\*M Grezlik. 2022. pMSE for Georges Bank EBFM Workshop #1 Summary. 
+
+**Guyant M, G Fay**, L Kerr, J Jesse, \*\*M Grezlik. 2022. pMSE for Georges Bank EBFM Workshop #2 Summary.
+
+MAFMC. 2022. EAFM Recreational Summer Flounder Management Strategy Evaluation. Summary of MSE Results and Findings. Report presented to the August 2022 meeting of the Mid-Atlantic Fishery Management Council. 16 p.
+
+MAFMC. 2022. Report of the September 2022 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 15p.
+
+MAFMC. 2022. Report of the July 2022 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 31p.
+
+ICES. 2022. Working Group on the Northwest Atlantic Regional Sea (WGNARS). ICES Scientific Reports. 4:56. 21 pp. <http://doi.org/10.17895/ices.pub.20254302>
+
+**Fay, G**. 2022. EAFM summer flounder recreational discards Management Strategy Evaluation: Simulation modeling specifications. Report presented to the June 2022 meeting of the Mid-Atlantic Fishery Management Council. 13p.
+
+MAFMC. 2022. Report of the May 2022 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council.
+
+MAFMC. 2022. Report of the March 2022 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council.
+
+**Guyant, M.**, **\*\*A. Miller**, **\*\*C. Roman**, C O´Keefe, A Lipsky, P Politis, K Ford, **G Fay**. 2022. Survey Simulation Experimentation and Evaluation Project Stakeholder Workshop #2 April 2022. 34p.
+
+**Guyant, M.**, **\*\*A. Miller**, **\*\*C. Roman**, C O´Keefe, A Lipsky, P Politis, K Ford, **G Fay**. 2022. Survey Simulation Experimentation and Evaluation Project Stakeholder Workshop #1 March 2022. 35p.
+
+\*\*Hankowsky, K., \*\*M Grezlik, \*\***L McGinnis**, **G Fay**, SX Cadrin, AC Hansell. 2022. Catch Rate Standardization of American Plaice Trawl Fishery. American Plaice Research Track Stock Assessment Working Group Working Paper 7.
+
+**2021**
+
+ICES. 2021. Workshop on Graduate/Post Graduate Education Strategy to Meet Future ICES Advisory Needs. ICES Scientific Reports. 3:6. 40 pp. https://doi.org/10.17895/ices.pub.7958
+
+Vicarelli, M., Tin, Leue, Shrestha, Barlow, Maresca, …, **Fay**, et al. 2021. “Climate Resilience: a Survey of Massachusetts Municipalities” University of Massachusetts Amherst, MA, USA.
+
+Karp, MA, \*\*M Grezlik, JS Link, S Cadrin, **G Fay**, P Lynch, H Townsend, R Methot (eds.). 2021. Workshop report: Multispecies Modeling Applications in Fisheries Management. NOAA Tech. Memo. NMFS-F/SPO-223, 56 p.
+
+**\*Cummings, JW**, **G Fay**, \*A Tyrell, S Large. 2021. Northeast Ecosystem and Socio-Economic Profile Workshop Report: Developing Ecosystem & Socioeconomic Profiles in the Northeast, NEFSC Workshop report. 23 p.
+
+\*\*Grezlik, M., \*\***L McGinnis**, \*\*K Hankowsky, **G Fay**, SX Cadrin, AC Hansell. 2021. Exploration of Fishery Data to Evaluate Catch Rates of American Plaice. American Plaice Research Track Stock Assessment Working Group Working Paper 6.
+
+MAFMC. 2021. Report of the September 2021 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 
+
+MAFMC. 2021. Report of the July 2021 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 36p.
+
+**Fay, G., \*\*RP Wildermuth**. 2021. Washington State Marine Spatial Planning. Final Report to Sound Resolutions LLC. 38p.
+
+MAFMC. 2021. Report of the May 2021 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 17p.
+
+MAFMC. 2021. Report of the March 2021 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 13p.
+
+**2020**
+
+Office of National Marine Sanctuaries. 2020. 2020 Condition Report: Findings of Status and Trends for 2007-2018. U.S. Department of Commerce, National Oceanic and Atmospheric Administration, Office of National Marine Sanctuaries, Silver Spring, MD. 263 pp.
+
+NEFSC. 2020. Draft Report of the Index-Based Methods Working Group. NOAA Fisheries / NRCC Research Track Stock Assessment CIE Review. 59p. 
+
+MAFMC. 2020. Report of the September 2021 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 11p
+
+Powell, E., A. Scheld, P. Sullivan, J. Kohut, T. Grothues, D. Munroe, P. Moreno, **G. Fay.** 2020. Review of “Vineyard Wind 1 Offshore Wind Energy Project Supplement to the Draft Environmental Impact Statement”. Science Center for Marine Fisheries Report. 21p.
+
+MAFMC. 2020. Report of the July 2020 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 44p.
+
+MAFMC. 2020. Report of the May 2020 meeting of the MAFMC Scientific and Statistical Committee. Mid-Atlantic Fishery Management Council. 18p.
+
+**2019**
+
+NEFMC. 2019. Strategies for deriving catch advice for stock complexes and allocations to fishery functional groups (i.e. ‘fisheries’). Document from the Ecosystem-Based Fishery Management Plan Development Team presented to the April 2019 meetings of the New England Fishery Management Council and Ecosystem-Based Fishery Management Committee. 12 p.
+
+Georgiana, D. S. Inglis, **G. Fay**, K. St. Martin, M-Y. Lee, K. Stokesbury. 2019. Combining Fishermen's Knowledge with Oceanographic and Economic Models to Locate, Evaluate, and Predict Gray Meat Outbreaks in Atlantic Sea Scallops. Final report to NOAA Saltonstall Kennedy Program, NOAA Award \# NA15NMF4270260. 57p.
+
+NEFMC. 2019. Draft Example Fishery Ecosystem Plan for Georges Bank. Document prepared by the Ecosystem Based Fishery Management Plan Development Team, presented to the January 2019 meetings of the New England Fishery Management Council and Ecosystem-Based Fishery Management Committee. 83 p.
+
+ICES. 2019. Working Group on the Northwest Atlantic Regional Sea (WGNARS). ICES Scientific Reports. 1:82. 19 pp. <http://doi.org/10.17895/ices.pub.5681>
+
+**2018**
+
+Cope, J., Raimondi, P., **Fay, G.**, Jiao, Y., Nielsen, K., Tissot, B., and White, W. 2018. Final report of the scientific and technical review panel: Scientific peer review of proposed recreational red abalone management strategies. California Ocean Science Trust, Oakland, CA. October, 2018.
+
+**Fay, G.** 2018. A comparison between IUCN categories of conservation status and fisheries reference points. In: Millar, S., and Dickey-Collas, M. 2018. Report on IUCN assessments and fisheries management approaches. ICES CM 2018/ACOM:60. 109 pp.
+
+AORA. 2018. Working Group on the Ecosystem Approach to Ocean Health and Stressors. Mandates May 2018. Montreal, CA. 27 pp.
+
+NEFMC. 2018. Management Strategy Evaluation User Guide (Appendix V). In: NEFMC .2018. Amendment 8 to the Atlantic Herring Fishery Management Plan, including a Draft Environmental Impact Statement (DEIS). Volume II - Appendices. (Contributions by **G.Fay** and \*\***A.R. Hart**). Prepared for the September 2018 meeting of the New England Fishery Management Council. 303p.
+
+ICES. 2018. Interim Report of the Working Group on the Northwest Atlantic Regional Sea (WGNARS). WGNARS 2018 Report 5–9 March 2018. Falmouth, MA, USA. ICES CM 2018/IEASG:03. 17 pp.
+
+Deroba, J.J., **G. Fay**, **\*\*A.E. Weston**, **\*\*A.R. Hart**. 2018. A Stock Synthesis model for Atlantic herring. In: Deroba, J.J. 2018. Atlantic herring operational assessment report. 2018. US Department of Commerce, Northeast Fisheries Science Center. 22 pp.
+
+\*\***Wildermuth, R.**, Cadrin, S., **Fay, G.**, **\*Cummings, J.**, \*\*Hansell, A., \*\*Haugen, J., **\*\*Hart, A.**, \*\*Morse, M., & \*\*Wright, B. 2018. Technical Minutes of the Review Group for Arctic Fish Stocks (RGARWG) in Review of ICES Arctic Fisheries Working Group (AFWG) Report 2018.
+
+**2017**
+
+NEFMC. 2017. A framework for Providing Catch Advice for a Prototype Advice Georges Bank Fishery Ecosystem Plan. Document from the Ecosystem-Based Fishery Management Plan Development Team presented to the September 2017 meetings of the New England Fishery Management Council and Ecosystem-Based Fishery Management Committee. 18p.
+
+**\*\*Hart, A.R.**, **G. Fay**, and D. Boelke. 2017. Draft impacts of Amendment 8 ABC control rule alternatives. Report to the September 2017 New England Fishery Management Council Atlantic Herring Advisory Panel and Herring Committee. 108 pp.
+
+Magnusson, A., A. Nielsen, A. Havron, C. Berg, C. Gradnin, C. Millar, **G. Fay**, H. Skaug, H. Ogden, J. Ancheta, K. Kristensen, and M. Brooks. 2017. ADMB Developer's Meeting 2017 Report. 18 pp.
+
+Kerr, L., **G. Fay**, D. Lipton, and J. Wiedenmann. 2017. External peer review of Atlantic herring management strategy evaluation. Report to the New England Fishery Management Council. 42 pp.
+
+ICES. 2017. Report of the Working Group on the Northwest Atlantic Regional Sea (WGNARS), 6-10 March 2017, Dartmouth, NS, Canada. 13 p.
+
+\*\*Wright B., S.X. Cadrin, **G. Fay**,\*\*N. Calabrese, \*\*A. Hansell, **\*\*A. Hart,** \*\*L. Horton, \*J. Rosellon-Druker, **\*\*A.E. Weston, \*\*R. Wildermuth,** and **\*\*M. Winton.** 2017. Technical Minutes of the Review Group for Celtic Sea Stocks (RGCS). ICES CM 2017/ACOM:13.
+
+NEFMC. 2017. Example application of operating models for Georges Bank ecosystem production unit (EPU) strategy evaluation. Document from the Ecosystem-Based Fishery Management Plan Development Team presented to the January 2017 meetings of the New England Fishery Management Council and Ecosystem-Based Fishery Management Committee. 25p.
+
+NEFMC. 2017. A framework for providing catch advice for a fishery ecosystem plan (FEP). Document from the Ecosystem-Based Fishery Management Plan Development Team presented to the January 2017 meetings of the New England Fishery Management Council and Ecosystem-Based Fishery Management Committee. 6p.
+
+**2016**
+
+**Fay, G.** and S. Cadrin. 2016. Simulation testing assessment models for black sea bass. SAW62 Black Sea Bass Model Meeting Working Paper, BSB WP A1 Appendix A6. 26p. Stock Assessment of Black Sea Bass for 2016 draft report, NOAA Fisheries Northeast Fisheries Science Center.
+
+**Fay, G.**, J. McNamee, and S. Cadrin. 2016. Stock Synthesis Application to Black Sea Bass. SAW62 Black Sea Bass Model Meeting Working Paper, BSB WP A1 Appendix A9. 59p. Stock Assessment of Black Sea Bass for 2016 draft report, NOAA Fisheries Northeast Fisheries Science Center.
+
+ICES. 2016. Final Report of the Working Group on the Northwest Atlantic Regional Sea (WGNARS), 21-24 March 2016, Falmouth, MA, USA. ICES CM 2016/SSGIEA:03. 30 p.
+
+Haas, H.L., C.R. Sasso, \*\***M.V. Winton**,R.J.Smolowitz, and **G. Fay**. 2016. Marine turtle tagging volume. Five Year Report to the Atlantic Marine Assessment Program for Protected Species, 14 pp.
+
+**Fay, G.** and J. Brust. 2016. Peer review report for the Atlantic Red Drum stock assessment. Report to the Atlantic States Marine Fisheries Commission. April 2016. 14p.
+
+SAW/SARC Black Sea Bass Working Group. 2016. Black Sea Bass Benchmark Stock Assessment Review. Term of Reference 1 – Spatial issues. Proposed partitioning of northern black sea bass stock for purposes of developing spatial stock assessment models. Report to the Mid-Atlantic Fishery Management Council Scientific and Statistical Committee. January 2016. 40p.
+
+**2015**
+
+McNamee, J., **G. Fay**, and S. Cadrin. 2015. Data Limited Techniques for Tier 4 Stocks: An alternative approach to setting harvest control rules using closed loop simulations for management strategy evaluation. Report to the Mid-Atlantic Fishery Management Council Scientific and Statistical Committee. July 2015. 57p.
+
+ICES. 2015. Report of the Workshop on guidance for the review of MSFD decision descriptor 4 – foodwebs II (WKGMFSDD4-II), 24-25 February 2015, ICES Headquarters, Denmark. ICES CM 2015\\ACOM:49. 48 pp.
+
+SEDAR. 2015. SEDAR 44, Atlantic Red Drum, Section III: Review Workshop Report. In: SEDAR. 2015. SEDAR 44–Atlantic Red Drum Stock Assessment Report. SEDAR, North Charleston SC. 890 pp. available online at: <http://sedarweb.org/sedar-44>.
+
+**2014**
+
+**Fay, G.**, E.L. Sundblad, S.I. Large, and D.S. Goldsborough. 2014. Theme Session G: Practical advice for implementing marine policy: combining ecosystem and societal indicators in stock and ecosystem assessments. In: ICES, 2014. Report of the 2014 ICES Annual Science Conference.
+
+**2001-2013**
+
+Wayte, S.E. and **G. Fay**. 2013. Stock Assessment of the Macquarie Island fishery for Patagonian toothfish (Dissostichus eleginoides) using data up to and including August 2012. Technical report presented to the Sub-Antarctic Resource Assessment Group (SARAG). 44p.
+
+ICES. 2013. Report of the Working Group on Working Group on the Northwest Atlantic Regional Sea (WGNARS), 28 January - 1 February 2013, Dartmouth, Canada. ICES CM 2013/SSGRSP:03. 108 p.
+
+**Fay, G**. 2012. Spatial modelling for monitoring and management of marine metapopulations. Ph.D. dissertation, School of Aquatic and Fishery Sciences, University of Washington, Seattle, WA. x+237p.
+
+**Fay, G.**, G.N. Tuck, M. Haddon, and N.L. Klaer. 2012. Maintaining risk equivalency among fishery harvest control rules in the SESSF. In Tuck, G.N. (ed.) 2012. Stock Assessment for the Southern and Eastern Scalefish and Shark Fishery 2011. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart.
+
+Wayte, S.E. and **G. Fay**. 2012. Stock Assessment of the Macquarie Island fishery for Patagonian toothfish (Dissostichus eleginoides) using data up to and including August 2011. Technical report presented to the Sub-Antarctic Resource Assessment Group (SARAG). 48p.
+
+**Fay, G.** 2011. Stock Assessment of the Macquarie Island fishery for Patagonian toothfish (Dissostichus eleginoides) using data up to and including June 2010. Technical report presented to the Sub-Antarctic Resource Assessment Group (SARAG). 61p.
+
+**Fay, G.** and G.N. Tuck. (eds.) 2011. Development of a multi-gear spatially explicit assessment and management strategy evaluation for the Macquarie Island Patagonian toothfish fishery. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 181p.
+
+**Fay, G.**, G.N. Tuck, and M. Haddon. 2011. Stock Assessment of the Macquarie Island fishery for Patagonian toothfish (Dissostichus eleginoides) using data up to and including June 2010 - addendum. Technical report presented inter-sessionally to the Sub-Antarctic Resource Assessment Group (SARAG). 21p.
+
+Thomson, R. and **G. Fay**. 2011. Preliminary stock assessment for mirror dory (Zenopsis nebulosus). Pages 13-36 in Tuck, G.N. (ed.) 2011. Stock Assessment for the Southern and Eastern Scalefish and Shark Fishery 2010. Part 1. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 374p.
+
+Tuck, G.N., and **G. Fay**. 2011. Silver warehou (Seriolella punctata) stock projections based on data up to 2008. Pages 85-96 in Tuck, G.N. (ed.) 2011. Stock Assessment for the Southern and Eastern Scalefish and Shark Fishery 2010. Part 1. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 374p.
+
+**Fay, G.** 2010. Application of MCMC methods to the Aurora Trough SS3 assessment base-case scenario. Technical report presented to the Sub-Antarctic Resource Assessment Group (SARAG). 26p.
+
+**Fay, G.** 2010. Evaluating a tag-recapture based integrated stock assessment for Macquarie Island Patagonian toothfish 1: Testing tagging assumptions using Aurora Trough. Technical report presented to the 16th March 2010 meeting of the Sub-Antarctic Resource Assessment Group (SARAG). 21p.
+
+**Fay, G.** 2010. Integrated stock assessment for the Aurora Trough Macquarie Island toothfish using data up to and including July 2009. Technical report presented to the Sub-Antarctic Resource Assessment Group (SARAG). 45p.
+
+**Fay, G**. 2010. Update on MSE progress for the Macquarie Island Toothfish Fishery. Document presented to the 29th November 2010 meeting of the Sub-Antarctic Resource Assessment Group (SARAG). 10p.
+
+**Fay, G**., M. Haddon, and G.N. Tuck. 2010. Revised Base-Case Results for 2010 Stock Assessment of Aurora Trough Macquarie Island toothfish, using data up to and including July 2009. Technical report presented inter-sessionally to the Sub-Antarctic Resource Assessment Group (SARAG). 26p.
+
+Griffiths, S., J. Pepperell, M. Tonks, **G. Fay**, W. Venables, J.M. Lyle, L. Olyott, W. Sawynok, and S. Edgar. 2010. Developing innovative and cost-effective tools for monitoring recreational fishing in Commonwealth fisheries. FRDC Final Report 2007/014. 170p.
+
+Thomson, R.B. and **G. Fay**. 2010. Exploration of mirror dory (Zenopsis nebulosus) data for stock assessment. Pages 10-20 in Tuck, G.N. (ed.) 2010. Stock Assessment for the Southern and Eastern Scalefish and Shark Fishery 2009. Part 2. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 427p.
+
+Tuck, G.N. and **G. Fay**. 2010. Silver warehou (Seriolella punctata) stock assessment based on data up to 2008. Pages 50-75 in Tuck, G.N. (ed.) 2010. Stock Assessment for the Southern and Eastern Scalefish and Shark Fishery 2009. Part 1. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 334p.
+
+**Fay, G**. 2009. Impact of alternative tagging scenarios on abundance estimation of Patagonian toothfish in the Macquarie Ridge longline fishery. Document presented to the Sub-Antarctic Resource Assessment Group, May 2009. 14p.
+
+**Fay, G**. 2009. Tier 3 calculations for blue eye trevalla (Hyperoglyphe antarctica) using data up to and including 2007. Pages 211-225 in Tuck, G.N. (ed.) 2009. Stock Assessment for the Southern and Eastern Scalefish and Shark Fishery 2008. Part 2. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 331p.
+
+**Fay, G**., A.E. Punt, and A.D.M. Smith. 2009. Performance evaluation of age structure-based harvest strategies for blue eye trevalla (Hyperoglyphe antarctica): impacts of spatial uncertainty. Pages 71-97 in Wayte, S.E. (ed.) 2009. Evaluation of new harvest strategies for SESSF species. CSIRO Marine and Atmospheric Research, Hobart and Australian Fisheries Management Authority, Canberra. 137p.
+
+**Fay, G.**, A.E. Punt, and A.D.M. Smith. 2009. Operating model specifications. Pages 125-113 in Wayte, S.E. (ed.) 2009. Evaluation of new harvest strategies for SESSF species. CSIRO Marine and Atmospheric Research, Hobart and Australian Fisheries Management Authority, Canberra. 137p.
+
+**Fay, G.**, G.N. Tuck, and T. Lamb. 2009. Integrated stock assessment for Macquarie Island toothfish using data up to and including July 2009. Document presented to the 23rd November 2009 meeting of the Sub-Antarctic Resource Assessment Group (SARAG). 51p.
+
+**Fay, G.**, G.N. Tuck, and T. Lamb. 2009. Integrated stock assessment for the Aurora Trough Macquarie Island Patagonian toothfish fishery, using data up to and including 2008/09. Pages 89-109 in Tuck, G.N. (ed.) Stock assessment and management strategy evaluation for sub-Antarctic fisheries: 2007- 2009. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 112p.
+
+Thomson, R.B. and **G. Fay**. 2009. Exploration of mirror dory (Zenopsis nebulosus) data for stock assessment. Document presented to the 11-12th November 2009 meeting of the Slope Resource Assessment Group (SlopeRAG). 14p.
+
+Tuck, G.N. and **G. Fay**. 2009. Silver warehou (Seriolella punctata) stock assessment based on data up to 2008. Document presented to the 11-12th November 2009 meeting of the Slope Resource Assessment Group (SlopeRAG). 26p.
+
+Wayte, S.E. and **G. Fay**. 2009. Jackass morwong (Nemadactylus macropterus) stock assessment based on data up to 2007. Pages 209-248 in Tuck, G.N. (ed.) 2009. Stock Assessment for the Southern and Eastern Scalefish and Shark Fishery 2008. Part 1. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 344p.
+
+Wayte, S.E., R.B. Thomson, I.A. Knuckey, G.N. Tuck, **G. Fay**, L.R. Little, N.L. Klaer, J.R. Day, M. Haddon, and A.D.M. Smith. 2009. Simulation testing of an adjustment to the TAC in response to the most recent year’s CPUE. Pages 113-124 in Wayte, S.E. (ed.) 2009. Evaluation of new harvest strategies for SESSF species. CSIRO Marine and Atmospheric Research, Hobart and Australian Fisheries Management Authority, Canberra. 137p.
+
+**Fay, G**. 2007. Data appraisal and progress on harvest strategy evaluation for blue eye trevalla: update for July 2007 SlopeRAG meeting. Pages 474-497 in Tuck, G.N. (ed.) 2007. Stock Assessment for the Southern and Eastern Scalefish and Shark Fishery 2006-2007. Volume 2: 2007. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 584p.
+
+**Fay, G**. 2007. Stock Assessment of Jackass Morwong (Nemadactylus macropterus) and RBC calculations for 2007 using data up to 2005. Pages 265-285 in Tuck, G.N. (ed.) 2007. Stock Assessment for the Southern and Eastern Scalefish and Shark Fishery 2006-2007. Volume 1: 2006. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 570p.
+
+**Fay, G**. 2007. Tier 3 calculations for blue eye trevalla (Hyperoglyphe antarctica) using data up to and including 2005. Pages 520-527 in Tuck, G.N. (ed.) 2007. Stock Assessment for the Southern and Eastern Scalefish and Shark Fishery 2006-2007. Volume 1: 2006. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 570p.
+
+Wayte, S.E. and **G. Fay**. 2007. Jackass Morwong (Nemadactylus macropterus) stock assessment based on data up to 2006. Pages 324-370 in Tuck, G.N. (ed.) 2007. Stock Assessment for the Southern and Eastern Scalefish and Shark Fishery 2006-2007. Volume 2: 2007. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 584p.
+
+**Fay, G**. 2006. Summary of the stock assessment for jackass morwong (Nemadactylus macropterus) Based on Data up to 2002. Pages 113-123 in Tuck, G.N. (ed.) 2006. Stock assessment for the South East Scalefish and Shark Fishery 2004-2005. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 222p.
+
+**Fay, G**. 2006. 2006 Recommended Biological Catch (RBC) for jackass morwong (Nemadactylus macropterus). Pages 213-217 in Tuck, G.N. (ed.) 2006. Stock Assessment for the Southern and Eastern Scalefish and Shark Fishery 2005-2006. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 292p.
+
+Punt, A.E., F. Pribac, T. Walker, A. Gason, and **G. Fay**. 2006. Summary of the stock assessment for gummy shark (Mustelus antarcticus) Based on Data up to 2003. Pages 197-208 in Tuck, G.N. (ed.) 2006. Stock assessment for the South East Scalefish and Shark Fishery 2004-2005. Australian Fisheries Management Authority and CSIRO Marine and Atmospheric Research, Hobart. 222p.
+
+**Fay, G**. 2005. Stock Assessment and Status of Longspine Thornyhead (Sebastolobus altivelis) off California, Oregon and Washington in 2005. Pacific Fishery Management Council, 7700 Ambassador Place NE, Suite 200, Portland, OR 97220. 147p.
+
+**Fay, G**. 2005. 2006 Recommended Biological Catch (RBC) for jackass morwong (Nemadactylus macropterus). Document presented to the Southern and Eastern Scalefish and Shark Fishery Shelf Assessment Group. 5p.
+
+**Fay, G.**, M. Koopman, and A.D.M. Smith. 2005. Catch curve analysis for ribaldo (Mora moro). Document presented to Southern and Eastern Scalefish and Shark Fishery Slope Assessment Group, August 2005. 3p.
+
+**Fay, G**. 2004. A Bayesian stochastic metapopulation model for Steller sea lions in Alaska. M.S. thesis, University of Washington, Seattle, Washington. vi+253p.
+
+**Fay, G**. 2004. Stock assessment for jackass morwong (Nemadactylus macropterus) based on data up to 2002. Pages 197-278 in Tuck, G.N. and Smith, A.D.M. (eds.) 2004. Stock assessment for South East and Southern Shark Fishery Species. Report of FRDC 2001/005. CSIRO Marine Research, Hobart. 419p.
+
+Punt, A.E., F. Pribac, T. Walker, A. Gason, and **G. Fay**. 2004. Stock assessment for gummy shark (Mustelus antarcticus) based on data up to 2003. Pages 121-196 in Tuck, G.N. and Smith, A.D.M. (eds.) Stock assessment for South East and Southern Shark Fishery Species. Report of FRDC 2001/005. CSIRO Marine Research, Hobart. 419p.
+
+Punt, A.E., F. Pribac, and **G. Fay**. 2004. A stock assessment of gummy shark for 2004. Document presented to the 2 March 2004 meeting of SharkFAG. 56p.
+
+Punt, A.E., F. Pribac, and **G. Fay**. 2004. A revised approach for conducting assessments of gummy shark, elephantfish, and sawshark off southern Australia. Document presented to 2 March 2004 meeting of SharkFAG. 11p.
+
+Punt, A.E. and **G. Fay**. 2003. Estimation of Steller sea lion population dynamics parameters. Report to the North Pacific Universities Marine Mammal Consortium. 48p.
+
+Punt, A.E. and **G. Fay**. 2002. Methods for Determining Extinction risk and Recovery Probability of Steller Sea Lion Populations Subject to Harvesting, Demographic and Environmental Stochasticity, and Catastrophic Events. Final Report to NMFS Steller sea lion recovery team. 52p.
+
+Punt, A.E., C. Allison, and **G. Fay**. 2002. An examination of assessment models for the Eastern North Pacific Gray whale based on inertial dynamics. IWC Document SC/54/BRG10. 26p.
