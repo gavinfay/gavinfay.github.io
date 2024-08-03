@@ -11,19 +11,23 @@ website:
         text: Home
       - href: cv.qmd
         text: CV
+      - href: talks.qmd
+        text: Talks
       - href: https://github.com/gavinfay
         icon: github
-      - href: http://thefaylab.com
+      - href: http:Y//thefaylab.com
         text: Lab Website
   page-footer: 
     background: light
     left: This site is licensed under a [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
-    right: This website is built with love, cats, and [Quarto](https://quarto.org/){target=_blank}.
+    right: This website is built with {{< fa heart title="a heart" >}}, {{< fa cat title="cats" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/gavinfay/gavinfay.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}, and [Quarto](https://quarto.org/){target=_blank}
     
 format:
   html:
     theme: 
-      light: sandstone
+      light: 
+        - sandstone
+        - styles.scss
       dark: slate
     css: styles.css
     toc: true

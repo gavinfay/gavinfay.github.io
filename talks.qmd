@@ -1,0 +1,25 @@
+---
+title: "Talks"
+---
+
+Selected Talks
+
+-   [Knowledge co-production to improve management outcomes for the US summer flounder recreational fishery](https://docs.google.com/presentation/d/1ALbwaHBQG5mNmrjWbTJdyvp5RmZcEzxqrelo1ijXSjo/edit?usp=sharing). [New England Science Boot Camp for Librarians](https://sites.google.com/view/nesciboot/), 2024-06-27.
+
+-   [NEFMC Ecosystem-Based Fisheries Management Prototype Management Strategy Evaluation](https://d23h0vhsm26o6d.cloudfront.net/2_Draft-final-Prototype-Management-Evaluation-pMSE-simulation-results-and-output-2nd-mailing_2023-07-06-181333_tsor.pdf). Presentation to the June 2023 New England Fishery Management Council Meeting. Gavin Fay, Lisa Kerr, Madeleine Guyant, Emily Liljestrand, Jerelle Jesse. 2023-06-29.
+
+-   [Decision contexts for recognizing spatial heterogeneity in stock (+ecosystem) assessments: What can we expect? What do we need?](https://docs.google.com/presentation/d/1t4gn-d2UUsS_LjfTiyuOLbgOUCh9dgFDwpfa-wodAhw/edit?usp=sharing) - Keynote address at 2023 NOAA NMFS National Stock Assessment Workshop. Providence, RI. 2023-05-11.
+
+-   [Linking fishery ecosystem models with indicators of coastal community well-being in the Northeast US](https://docs.google.com/presentation/d/1J7Wm80JFRDqEZRMo-gmSjlKMI5YTn6pYtIMYwpYIGY8/edit?usp=sharing). Effects of Climate Change on the World’s Ocean Conference. 2023-04-17.
+
+-   [Openscapes is Awesome! Building lab resources to sustain future us with tools from open data science](https://docs.google.com/presentation/d/1c624mH3md8pQHiP6rJ7HPuhxDLgNB7xvONDZlUM3f64/edit?usp=sharing). NOAA Alaska Fisheries Science Center. 2022-02-09.
+
+-   [Integrating responses to environmental drivers of system change within ecosystem-based fishery management procedures](https://docs.google.com/presentation/d/1sD8pq7I8JFV-cdshfdlf-_z9SgAO4JgSlx4hxGvcZBI/edit?usp=sharing). OneNOAA webinar: Northeast Climate Integrated Modeling seminar series. 2021-05-13.
+
+-   [Ecosystem Based Management as science to support climate resilient blue/green economies.](https://docs.google.com/presentation/d/1c2vbw3mCSNJYx3RJb4kW-FJxKZsRQ_Ju3GDU7OhCsMg/edit#slide=id.p) UMass Dartmouth-SMAST Department of Fisheries Oceanography, Spring 2021 seminar series. 2021-03-31.
+
+-   [Open Marine Fisheries & Ecosystem Science: Research, Teaching, & Community Building](https://docs.google.com/presentation/d/1Y5OcbWccQd7j2RpQIb1qEwX9F-_K-ShP7q-KNIQCNUM/edit?usp=sharing). Association of College Research Librarians Round Table on Perspectives on Open Data and Open Scholarship. 2021-01-14.
+
+-   [Making marine ecosystem-based management work: Trust, Trophic models, and Tradeoffs](https://docs.google.com/presentation/d/1qH2IETyr83qdRN6HV1VpKC-8BlMqlUDn/edit?usp=sharing&ouid=100082783551785338508&rtpof=true&sd=true). University of Southern Mississippi Gulf Coast Research Laboratory. 2019-10-10.
+
+[*See my full CV for complete list of conference talks and invited presentations.*](https://drive.google.com/file/d/1B__XCCz0Xe1gWEFoIW-5ROUE79kBvgTf/view?usp=drive_link)
