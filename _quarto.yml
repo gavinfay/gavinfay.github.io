@@ -15,7 +15,7 @@ website:
         text: Talks
       - href: https://github.com/gavinfay
         icon: github
-      - href: http:Y//thefaylab.com
+      - href: http://thefaylab.com
         text: Lab Website
   page-footer: 
     background: light
