@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.56">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -114,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -126,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles content column-page">
+<div class="quarto-about-trestles column-page">
   <div class="about-entity">
     <img src="images/gf-headshot.png" class="about-image
   rounded " style="width: 15em;">
@@ -153,18 +153,18 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<section id="training-and-research-in-statistical-modeling-and-data-science-for-better-ecosystem-based-decision-making-for-our-oceans-and-the-people-who-depend-on-them." class="level4">
-<h4 data-anchor-id="training-and-research-in-statistical-modeling-and-data-science-for-better-ecosystem-based-decision-making-for-our-oceans-and-the-people-who-depend-on-them."><strong><em>Training and research in statistical modeling and data science for better ecosystem-based decision making for our oceans and the people who depend on them.</em></strong></h4>
+<section id="training-and-research-in-quantitative-modeling-and-data-science-for-better-ecosystem-based-decision-making-for-our-oceans-and-the-people-who-depend-on-them." class="level4">
+<h4 data-anchor-id="training-and-research-in-quantitative-modeling-and-data-science-for-better-ecosystem-based-decision-making-for-our-oceans-and-the-people-who-depend-on-them."><strong><em>Training and research in quantitative modeling and data science for better ecosystem-based decision making for our oceans and the people who depend on them.</em></strong></h4>
 <p>Hi! I am currently an Associate Professor of Fisheries Oceanography at the University of Massachusetts Dartmouth School for Marine Science and Technology.</p>
 <p>For information about my team’s work please visit our lab website at <a href="http://thefaylab.com">thefaylab.com</a>.</p>
 <p>For more information about how we work, please visit our <a href="https://thefaylab.github.io/lab-manual">lab manual</a>.</p>
-<p><strong><em>“We do fisheries things”</em>.</strong><sup>*</sup> In my research group, we develop and test the performance of new methods for fisheries assessment modeling and climate-ready marine ecosystem-based management. We employ open data science tools in our work to enable better co-creation, communication, and use of scientific results for application to management and policy.</p>
+<p><strong><em>“We do fisheries things”</em>.</strong><sup>*</sup> In my research group, we develop and test the performance of quantitative methods for fisheries assessment modeling and climate-ready marine ecosystem-based management. We embrace open data science principles in our work to better enable co-creation, communication, and use of scientific results for application to management and policy. We are increasingly integrating a broader set of societal and environmental objectives within tradeoff analyses when comparing likely outcomes (and their uncertainty) of choices for human uses of the marine ecosystem.</p>
 <p>At the University of Massachusetts Dartmouth, I teach graduate courses and workshops in statistics, ecological population modeling, science communication, R programming, and Ecosystem-Based Fisheries Management. I am the Chair of the ICES Strategic Initiative for Graduate Education.</p>
 <p>I currently serve on the Mid-Atlantic Fishery Management Council’s Scientific and Statistical Committee, as well as the New England Fishery Management Council’s Ecosystem-Based Fisheries Management Plan Development Team.</p>
 <p><a href="http://webserver.smast.umassd.edu/lab_fay/?page_id=7"><strong>Research Overview</strong></a><strong>.</strong> Areas of research:</p>
 <ul>
 <li><p>Ecosystem-Based Fisheries Management</p></li>
-<li><p>Stock Assessment</p></li>
+<li><p>Statistical Population Modeling and Stock Assessment</p></li>
 <li><p>Management Strategy Evaluation</p></li>
 <li><p>Climate informed fisheries decision-making</p></li>
 <li><p>Socio-environmental systems</p></li>
@@ -349,18 +349,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -392,7 +381,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -400,7 +411,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

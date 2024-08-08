@@ -17,7 +17,7 @@ about:
       href: https://scholar.google.com/citations?user=ApZKT_0AAAAJ&hl=en
 ---
 
-#### ***Training and research in statistical modeling and data science for better ecosystem-based decision making for our oceans and the people who depend on them.***
+#### ***Training and research in quantitative modeling and data science for better ecosystem-based decision making for our oceans and the people who depend on them.***
 
 Hi! I am currently an Associate Professor of Fisheries Oceanography at the University of Massachusetts Dartmouth School for Marine Science and Technology.
 
@@ -25,7 +25,7 @@ For information about my team's work please visit our lab website at [thefaylab.
 
 For more information about how we work, please visit our [lab manual](https://thefaylab.github.io/lab-manual).
 
-***"We do fisheries things"*****.**^\*^ In my research group, we develop and test the performance of new methods for fisheries assessment modeling and climate-ready marine ecosystem-based management. We employ open data science tools in our work to enable better co-creation, communication, and use of scientific results for application to management and policy.
+***"We do fisheries things"*****.**^\*^ In my research group, we develop and test the performance of quantitative methods for fisheries assessment modeling and climate-ready marine ecosystem-based management. We embrace open data science principles in our work to better enable co-creation, communication, and use of scientific results for application to management and policy. We are increasingly integrating a broader set of societal and environmental objectives within tradeoff analyses when comparing likely outcomes (and their uncertainty) of choices for human uses of the marine ecosystem.
 
 At the University of Massachusetts Dartmouth, I teach graduate courses and workshops in statistics, ecological population modeling, science communication, R programming, and Ecosystem-Based Fisheries Management. I am the Chair of the ICES Strategic Initiative for Graduate Education.
 
@@ -35,7 +35,7 @@ I currently serve on the Mid-Atlantic Fishery Management Council's Scientific an
 
 -   Ecosystem-Based Fisheries Management
 
--   Stock Assessment
+-   Statistical Population Modeling and Stock Assessment
 
 -   Management Strategy Evaluation
 
