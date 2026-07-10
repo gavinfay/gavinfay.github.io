@@ -27,9 +27,9 @@ For more information about how we work, please visit our [lab manual](https://th
 
 ***"We do fisheries things"*****.**^\*^ In my research group, we develop and test the performance of quantitative methods for fisheries assessment modeling and climate-ready marine ecosystem-based management. We embrace open data science principles in our work to better enable co-creation, communication, and use of scientific results for application to management and policy. We are increasingly integrating a broader set of societal and environmental objectives within tradeoff analyses when comparing likely outcomes (and their uncertainty) of choices for human uses of the marine ecosystem.
 
-At the University of Massachusetts Dartmouth, I teach graduate courses and workshops in statistics, ecological population modeling, science communication, R programming, and Ecosystem-Based Fisheries Management. I am the Chair of the ICES Strategic Initiative for Graduate Education.
+At the University of Massachusetts Dartmouth, I teach graduate courses and workshops in statistics, ecological population modeling, science communication, R programming, and Ecosystem-Based Fisheries Management.
 
-I currently serve on the Mid-Atlantic Fishery Management Council's Scientific and Statistical Committee, as well as the New England Fishery Management Council's Ecosystem-Based Fisheries Management Plan Development Team.
+I currently serve on the Mid-Atlantic Fishery Management Council's Scientific and Statistical Committee, and previously served on the New England Fishery Management Council's Ecosystem-Based Fisheries Management Plan Development Team.
 
 [**Research Overview**](http://webserver.smast.umassd.edu/lab_fay/?page_id=7)**.** Areas of research:
 
