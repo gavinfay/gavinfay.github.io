@@ -33,15 +33,15 @@ I currently serve on the Mid-Atlantic Fishery Management Council's Scientific an
 
 [**Research Overview**](http://webserver.smast.umassd.edu/lab_fay/?page_id=7)**.** Areas of research:
 
--   Ecosystem-Based Fisheries Management
+- Ecosystem-Based Fisheries Management
 
--   Statistical Population Modeling and Stock Assessment
+- Statistical Population Modeling and Stock Assessment
 
--   Management Strategy Evaluation
+- Management Strategy Evaluation
 
--   Climate informed fisheries decision-making
+- Climate informed fisheries decision-making
 
--   Socio-environmental systems
+- Socio-environmental systems
 
 *(Many thanks for super resources for building websites with Quarto put together and shared by [Angelia Miller](https://angeliamiller.github.io/) and [Samantha Csik](https://samanthacsik.github.io/))*
 
