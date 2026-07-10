@@ -4,8 +4,8 @@ title: "Curriculum vitae"
 
 Brief CV below.
 
-[pdf version of my ](https://drive.google.com/file/d/1B__XCCz0Xe1gWEFoIW-5ROUE79kBvgTf/view?usp=drive_link)[full](https://drive.google.com/file/d/1esK95PQfgsjbLzMM0wXhSyXLxUnE1YeH)[ CV](https://drive.google.com/file/d/1B__XCCz0Xe1gWEFoIW-5ROUE79kBvgTf/view?usp=drive_link) (UMass Dartmouth format)\
-*(last modified 2024-08-27)*
+[pdf version of my full CV](https://drive.google.com/file/d/1sihHTughrlOXv5IxVdbP-mq46EuzV0w_/view?usp=sharing) (UMass Dartmouth format)\
+*(last modified 2026-06-02)*
 
 ### Education
 
@@ -29,50 +29,52 @@ Commonwealth Scientific and Industrial Organisation, 2004, Fisheries Modeller, D
 
 ### **Research Highlights**
 
--   Publications: 53 peer-reviewed journal articles, 11 with student/postdoc advisees as primary author. 129 technical reports. H index: 20 (Web of Science), 23 (Google Scholar); Total citations: 1,293 (Web of Science), 2,091 (Google Scholar).
+- Publications: 55 peer-reviewed journal articles, 11 with student/postdoc advisees as primary author. 135 technical reports. H index: 21 (Web of Science), 28 (Google Scholar); Total citations: 1,478 (Web of Science), 2,583 (Google Scholar).
 
--   33 invited presentations at universities, research institutes, and professional organizations. 113 conference presentations by my research group.
+- 33 invited presentations at universities, research institutes, and professional organizations. 113 conference presentations by my research group.
 
--   \$3.6M in research funding as principal investigator, with an additional \$17.4M as co-PI and senior personnel, all while at UMass Dartmouth. In total, these 43 funded projects brought \$6.1M to UMass Dartmouth, with \$4.4M to my lab. 
+- \$4.02M in research funding as principal investigator, with an additional \$18.5M as co-PI and senior personnel, all while at UMass Dartmouth. In total, these 48 funded projects brought \$7.5M to UMass Dartmouth, with \$4.94M to my lab. 
 
--   Extra-mural funding sources include NOAA, NSF, The Nature Conservancy, Massachusetts Clean Energy Center, New England Fishery Management Council, Mid-Atlantic Fishery Management Council, Atlantic States Marine Fisheries Commission, and the International Council for the Exploration of the Sea (ICES).
+- Extra-mural funding sources include NOAA, NSF, The Nature Conservancy, Massachusetts Clean Energy Center, New England Fishery Management Council, Mid-Atlantic Fishery Management Council, Atlantic States Marine Fisheries Commission, and the International Council for the Exploration of the Sea (ICES).
 
 ### **Teaching and Advising Highlights**
 
--   Major professor for eleven graduate students at UMass Dartmouth (6 PhD, 5 MS). Four students have graduated (2 PhD, 2MS), and two additional MS students will complete their degrees fall 2024. Three of my PhD students have been recipients of the NOAA Fisheries-Sea Grant Population and Ecosystem Dynamics Fellowship.
+- Major professor for sixteen graduate students at UMass Dartmouth (7 PhD, 9 MS). Nine students have graduated (3 PhD, 6 MS). Four of my PhD students have been recipients of the NOAA Fisheries-Sea Grant Population and Ecosystem Dynamics Fellowship.
 
--   Supervisor for 4 postdoctoral researchers, 2 post-master’s technical associates, 2 undergraduate researchers, 2 high school interns, and an additional 2 lab technicians.
+- Supervisor for 7 postdoctoral researchers, 3 post-master’s technical and research associates, 6 undergraduate researchers, 2 high school interns, and an additional 3 lab technicians.
 
--   Served on the graduate thesis committee for an additional 27 graduate students at UMass Dartmouth and other universities. Served as the external examiner for 2 PhD students in Canada.
+- Served on the graduate thesis committee for an additional 31 graduate students at UMass Dartmouth and other universities. Served as the external examiner for 2 PhD students in Canada.
 
--   Developed, redesigned, and taught 6 graduate courses at UMass Dartmouth:
+- Developed, redesigned, and taught 6 graduate courses at UMass Dartmouth:
 
-    -   Ecosystem-Based Fisheries Management
+  - Ecosystem-Based Fisheries Management
 
-    -   Advanced Population Modeling
+  - Advanced Population Modeling
 
-    -   Science Communication for Research Scientists
+  - Science Communication for Research Scientists
 
-    -   Biological Statistics II
+  - Biological Statistics II
 
-    -   Models for Marine Ecosystem-Based Management
+  - Models for Marine Ecosystem-Based Management
 
-    -   Bayesian statistics and hierarchical modeling for ecology
+  - Bayesian statistics and hierarchical modeling for ecology
 
--   Instructor for short courses and workshops in quantitative fisheries methods, R programming, Management Strategy Evaluation, and statistical computing (ADMB & TMB) at UMass Dartmouth and for the [Cooperative Institute for North Atlantic Region](www.cinar.org), [ICES](www.ices.dk), and [Atlantic States Marine Fisheries Commission](asmfc.org).
+- Instructor for short courses and workshops in quantitative fisheries methods, R programming, Management Strategy Evaluation, and statistical computing (ADMB & TMB) at UMass Dartmouth and for the [Cooperative Institute for North Atlantic Region](www.cinar.org), [ICES](www.ices.dk), and [Atlantic States Marine Fisheries Commission](asmfc.org).
 
 ### **Service Highlights**
 
--   Member of the Mid-Atlantic Fishery Management Council Scientific and Statistical Committee, and the New England Fishery Management Council Ecosystem-Based Fishery Management Plan Development Team
+- Member of the Mid-Atlantic Fishery Management Council Scientific and Statistical Committee
 
--   Chair of the ICES Strategic Initiative for Graduate Education
+- Member of the New England Fishery Management Council Ecosystem-Based Fishery Management Plan Development Team
 
--   Advisory Board member of UMass Dartmouth Office of Faculty Development
+- Chair of the ICES Strategic Initiative for Graduate Education
 
--   Chair of School for Marine Science and Technology Curriculum Committee
+- Advisory Board member of UMass Dartmouth Office of Faculty Development
 
--   Member of fishery stock assessment working groups in the US east coast and Southeast Australia.
+- Chair of School for Marine Science and Technology Curriculum Committee
 
--   Steering committee member for 2 international conferences on ecosystem modeling, and chair or co-convenor for 6 sessions at international conferences.
+- Member of fishery stock assessment working groups in the US east coast and Southeast Australia.
 
--   Manuscript reviewer for 18 scientific journals, proposal reviewer for NOAA, NSF, Sea Grant, external reviewer for fisheries stock assessments and advice drafting groups.
+- Steering committee member for 2 international conferences on ecosystem modeling, and chair or co-convenor for 6 sessions at international conferences.
+
+- Manuscript reviewer for 18 scientific journals, proposal reviewer for NOAA, NSF, Sea Grant, external reviewer for fisheries stock assessments and advice drafting groups.
