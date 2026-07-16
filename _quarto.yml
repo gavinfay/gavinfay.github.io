@@ -32,5 +32,6 @@ format:
     toc: true
     page-layout: full
 
-editor: visual
-
+filters:
+  - include-files.lua
+  - quarto
